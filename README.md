@@ -1,2 +1,4 @@
 # uk-day2-training
-training repo
+
+## just a training repository
+
